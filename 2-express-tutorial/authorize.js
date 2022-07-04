@@ -8,4 +8,5 @@ const authorize = (req, res, next) => {
     }
 }
 // usage : checking if user has access to any page
+
 module.exports = authorize;
